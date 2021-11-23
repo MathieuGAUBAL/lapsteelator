@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f13bc235f99155717e337bf55e09814",
+    "revision": "b1cf91b4c2b3238677acda013358b37a",
     "url": "/lapsteelator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lapsteelator/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "dd498f21f79c5a23e305",
+    "revision": "3b678fcbc7cd049ced3d",
     "url": "/lapsteelator/static/css/main.7a2f553b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lapsteelator/static/js/2.cbc7fe98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd498f21f79c5a23e305",
-    "url": "/lapsteelator/static/js/main.2b62a439.chunk.js"
+    "revision": "3b678fcbc7cd049ced3d",
+    "url": "/lapsteelator/static/js/main.dcbe0c83.chunk.js"
   },
   {
     "revision": "4ea5f56581a7c0d2c58f",
