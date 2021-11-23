@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lapsteelator/static/css/main.7a2f553b.chunk.css",
-    "main.js": "/lapsteelator/static/js/main.dcbe0c83.chunk.js",
-    "main.js.map": "/lapsteelator/static/js/main.dcbe0c83.chunk.js.map",
+    "main.js": "/lapsteelator/static/js/main.af24d026.chunk.js",
+    "main.js.map": "/lapsteelator/static/js/main.af24d026.chunk.js.map",
     "runtime-main.js": "/lapsteelator/static/js/runtime-main.eaecf887.js",
     "runtime-main.js.map": "/lapsteelator/static/js/runtime-main.eaecf887.js.map",
     "static/css/2.de424728.chunk.css": "/lapsteelator/static/css/2.de424728.chunk.css",
     "static/js/2.cbc7fe98.chunk.js": "/lapsteelator/static/js/2.cbc7fe98.chunk.js",
     "static/js/2.cbc7fe98.chunk.js.map": "/lapsteelator/static/js/2.cbc7fe98.chunk.js.map",
     "index.html": "/lapsteelator/index.html",
-    "precache-manifest.0c4365e108e104ea73708863b1da6813.js": "/lapsteelator/precache-manifest.0c4365e108e104ea73708863b1da6813.js",
+    "precache-manifest.c0ca70e09cd50cd3c72394e61ecdb6fa.js": "/lapsteelator/precache-manifest.c0ca70e09cd50cd3c72394e61ecdb6fa.js",
     "service-worker.js": "/lapsteelator/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/lapsteelator/static/css/2.de424728.chunk.css.map",
     "static/css/main.7a2f553b.chunk.css.map": "/lapsteelator/static/css/main.7a2f553b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.cbc7fe98.chunk.js",
     "static/css/main.7a2f553b.chunk.css",
-    "static/js/main.dcbe0c83.chunk.js"
+    "static/js/main.af24d026.chunk.js"
   ]
 }
