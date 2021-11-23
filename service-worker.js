@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lapsteelator/precache-manifest.99091688f0a284cb229acfd4def2b48f.js"
+  "/lapsteelator/precache-manifest.73f9597e9452a71cc8de8590e5c013e2.js"
 );
 
 self.addEventListener('message', (event) => {
