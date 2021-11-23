@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lapsteelator/static/css/main.7a2f553b.chunk.css",
+    "main.js": "/lapsteelator/static/js/main.8e4c3794.chunk.js",
+    "main.js.map": "/lapsteelator/static/js/main.8e4c3794.chunk.js.map",
+    "runtime-main.js": "/lapsteelator/static/js/runtime-main.eaecf887.js",
+    "runtime-main.js.map": "/lapsteelator/static/js/runtime-main.eaecf887.js.map",
+    "static/css/2.de424728.chunk.css": "/lapsteelator/static/css/2.de424728.chunk.css",
+    "static/js/2.cbc7fe98.chunk.js": "/lapsteelator/static/js/2.cbc7fe98.chunk.js",
+    "static/js/2.cbc7fe98.chunk.js.map": "/lapsteelator/static/js/2.cbc7fe98.chunk.js.map",
+    "index.html": "/lapsteelator/index.html",
+    "precache-manifest.a5a621f4ddbab494981ceeece0e90cac.js": "/lapsteelator/precache-manifest.a5a621f4ddbab494981ceeece0e90cac.js",
+    "service-worker.js": "/lapsteelator/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/lapsteelator/static/css/2.de424728.chunk.css.map",
+    "static/css/main.7a2f553b.chunk.css.map": "/lapsteelator/static/css/main.7a2f553b.chunk.css.map",
+    "static/js/2.cbc7fe98.chunk.js.LICENSE.txt": "/lapsteelator/static/js/2.cbc7fe98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaecf887.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.cbc7fe98.chunk.js",
+    "static/css/main.7a2f553b.chunk.css",
+    "static/js/main.8e4c3794.chunk.js"
+  ]
+}
